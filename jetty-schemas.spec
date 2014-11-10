@@ -3,8 +3,8 @@
 %global     addver M0
 %global     toolchain_id org.eclipse.jetty.toolchain
 Name:       jetty-schemas
-Version:    3.2
-Release:    3%{?dist}
+Version:    3.1
+Release:    4%{?dist}
 Summary:    XML Schemas for Jetty
 
 License:    CDDL or GPLv2 with exceptions
