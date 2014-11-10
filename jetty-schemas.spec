@@ -1,7 +1,9 @@
+%{?_javapackages_macros:%_javapackages_macros}
+
 %global     addver M0
 %global     toolchain_id org.eclipse.jetty.toolchain
 Name:       jetty-schemas
-Version:    3.1
+Version:    3.2
 Release:    3%{?dist}
 Summary:    XML Schemas for Jetty
 
