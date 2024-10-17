@@ -8,7 +8,7 @@ Release:    4%{?dist}
 Summary:    XML Schemas for Jetty
 
 License:    CDDL or GPLv2 with exceptions
-URL:        http://www.eclipse.org/jetty/
+URL:        https://www.eclipse.org/jetty/
 Source0:    http://git.eclipse.org/c/jetty/%{toolchain_id}.git/snapshot/%{toolchain_id}-%{name}-%{version}.%{addver}.tar.bz2
 Source1:    https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html
 
